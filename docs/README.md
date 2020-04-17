@@ -10,7 +10,7 @@
         Dagon is a bookmark management app for iOS. It is designed to work with all kinds of other apps. Share all your favorite links or pages to Dagon, tag them and read them later. It can work with your Pinboard account, keeps syncing your bookmarks and it just works. 
     </div>
     <div style="margin-top: 1.5rem;">
-        <img src="/images/appstore@2x.png" alt="Download on the App Store" width="237" height="70">
+        <a href="https://apps.apple.com/us/app/dagon-app/id1508281140"><img src="/images/appstore@2x.png" alt="Download on the App Store" width="237" height="70"></a>
     </div>
 </div>
 
