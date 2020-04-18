@@ -49,9 +49,6 @@
 
 ### Get Help
 
-#### Reply on Twitter
-Follow [@dagonapp](https://twitter.com/DagonApp) for DagonApp related news and updates. Any question or suggestions are welcome.
-
 #### Send us Email
 [Email](mailto:dagon.wanyi.dev) us your question or suggestions and we'll get back to you as soon as we can.
 
