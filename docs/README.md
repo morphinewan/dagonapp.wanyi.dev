@@ -20,8 +20,10 @@
 * Search your bookmarks in Spotlight.
 * Tag your bookmarks, organize and categorize them.
 * Save any URLs from other iOS apps by using share extension.
+* Save any images include within the url's page to Dagon's Gallery. Fully support Instagram, Twitter or otherthing else.
 * Take snapshot for your bookmark when you want to read them later or backup the page even if the URL is broken or server is down. Snapshot will be stored locally and synced with iCloud (if you enable iCloud Sync).
 * Sync with your [Pinboard](https://pinboard.in) account.
+* Automatically backup your data daily as you want. You can export your data whenever you want, they are fully controlled by you own.
 
 ### Screenshots
 
