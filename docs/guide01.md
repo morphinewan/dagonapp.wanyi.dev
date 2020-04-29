@@ -20,4 +20,4 @@
 
 [Back To Home](/)
 
-[Next](/#/guide02)
+[Next](/guide02)
