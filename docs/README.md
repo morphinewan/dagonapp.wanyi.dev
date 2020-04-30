@@ -52,7 +52,7 @@
 # Get Help
 
 ## Send us Email
-[Email](mailto:dagon.wanyi.dev) us your question or suggestions and we'll get back to you as soon as we can.
+[Email](mailto:dagon@wanyi.dev) us your question or suggestions and we'll get back to you as soon as we can.
 
 # Privacy Policy
 
