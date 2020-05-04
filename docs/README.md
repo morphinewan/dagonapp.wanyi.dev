@@ -1,4 +1,4 @@
-<div>
+<div style="margin-bottom: 4rem">
     <div>
     <a href="https://dagonapp.wanyi.dev/images/DagonApp.svg">
         <img src="/images/DagonApp.svg" alt="Dagon App Logo" width="150px"/>
@@ -13,6 +13,11 @@
         <a href="https://apps.apple.com/us/app/dagon-app/id1508281140"><img src="/images/appstore@2x.png" alt="Download on the App Store" width="237" height="70"></a>
     </div>
 </div>
+
+# What's New
+
+1. v1.2 with a lot of bug fixes is in Apple's reviewing. Please be patient, it is coming soon.
+2. v1.3 is in developing with new batch deletion and other operations. It will get into TestFlight after v1.2 is released.
 
 # Features
 
@@ -49,10 +54,9 @@
 </figure>
 </div>
 
-# Get Help
+# Contact
 
-## Send us Email
-[Email](mailto:dagon@wanyi.dev) us your question or suggestions and we'll get back to you as soon as we can.
+Feel free to [send us an email](mailto:dagon@wanyi.dev?subject=About%20Dagon%20App) about your questions or suggestions and we'll get back to you as soon as we can.
 
 # Privacy Policy
 

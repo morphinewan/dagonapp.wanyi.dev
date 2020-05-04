@@ -6,4 +6,4 @@
     * [How to export backup](guide02.md)
     * [How to import Backup](guide03.md)
     * [How to save Instagram pictures](guide04.md)
-* [Q & A](/Q&A)
+* [Frequently Asked Questions](/Q&A)

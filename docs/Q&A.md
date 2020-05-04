@@ -1,6 +1,6 @@
-# Q & A
+# Frequently Asked Questions
 
-## 1. Why I can't see the "Add to Dagon" button in Safari or other app's Action activity view ?
+## 1. Why I can't see the "Add to Dagon" button in Safari or other app's activity view after tapping the Action button ?
 
 It seems to be a bug in iOS 13. Please upgrade your iOS to latest version. After reboot automaticlly, Dagon's action extension will just work and appear. 
 
