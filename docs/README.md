@@ -16,8 +16,8 @@
 
 # What's New
 
-1. v1.2 with a lot of bug fixes is in Apple's reviewing. Please be patient, it is coming soon.
-2. v1.3 is in developing with new batch deletion and other operations. It will get into TestFlight after v1.2 is released.
+1. v1.2 with a lot of bug fixes and new batch deletion and other operations is in Apple's reviewing. Please be patient, it is coming soon.
+2. v1.2 will also support Japanse language btw.
 
 # Features
 
