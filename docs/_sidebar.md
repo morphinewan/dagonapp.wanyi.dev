@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* Dagon Guide
+* [Dagon Guide](guide.md)
     * [How to share URL in Safari](guide01.md)
     * [How to export backup](guide02.md)
     * [How to import Backup](guide03.md)
