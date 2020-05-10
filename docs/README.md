@@ -16,10 +16,11 @@
 
 # What's New
 
-1. Dagon Lite is coming. Free to use, pay to unlock some good features.
-1. v1.2.1 is out. Fixed a critical bug caused bookmarks not to be openned again.
-1. v1.2 with a lot of bug fixes and new batch deletion and other operations is in Apple's reviewing. Please be patient, it is coming soon.
-1. v1.2 will also support Japanse language btw.
+1. Dagon Lite is out. Free to use, pay to unlock some good features.
+1. Dagon v1.2.2 is out. Minor fix.
+1. Dagon v1.2.1 is out. Fixed a critical bug caused bookmarks not to be openned again.
+1. Dagon v1.2 with a lot of bug fixes and new batch deletion and other operations is in Apple's reviewing. Please be patient, it is coming soon.
+1. Dagon v1.2 will also support Japanse language btw.
 
 # Features
 
