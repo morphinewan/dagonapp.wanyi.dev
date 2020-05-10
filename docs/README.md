@@ -59,7 +59,8 @@
 
 # Contact
 
-Feel free to [send us an email](mailto:dagon@wanyi.dev?subject=About%20Dagon%20App) about your questions or suggestions and we'll get back to you as soon as we can.
+1. Feel free to [send us an email](mailto:dagon@wanyi.dev?subject=About%20Dagon%20App) about your questions or suggestions and we'll get back to you as soon as we can.
+2. If you're familiar with GithHub and have some problems or questions, please create issues on [this project](https://github.com/morphinewan/dagonapp.wanyi.dev/issues) and we will discuss with you ASAP.
 
 # Privacy Policy
 
