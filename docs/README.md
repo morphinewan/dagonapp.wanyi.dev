@@ -16,6 +16,7 @@
 
 # What's New
 
+1. Dagon v1.3 is out with edit function in list view. [Check it out.](/guide05.md)
 1. Dagon Lite is out. Free to use, pay to unlock some good features.
 1. Dagon v1.2.2 is out. Minor fix.
 1. Dagon v1.2.1 is out. Fixed a critical bug caused bookmarks not to be openned again.
