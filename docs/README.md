@@ -62,7 +62,8 @@
 
 1. Feel free to [send us an email](mailto:dagon@wanyi.dev?subject=About%20Dagon%20App) about your questions or suggestions and we'll get back to you as soon as we can.
 2. If you're familiar with GithHub and have some problems or questions, please create issues on [this project](https://github.com/morphinewan/dagonapp.wanyi.dev/issues) and we will discuss with you ASAP.
+3. Follow me on [twitter](https://twitter.com/morphinewan), keep in touch.
 
 # Privacy Policy
 
-Dagon don't collect any your data. Dagon has no server side and only backup data using iCloud service if you enable iCloud. All sensitive data (Pinbaord API token) will be stored securely in the Keychain on your device or iCloud (if you have enabled iCloud Keychain).
+Dagon don't collect any data that your saved. Dagon has no server side and only backup data using iCloud service if you enable iCloud. All sensitive data (Pinbaord API token) will be stored securely in the Keychain on your device or iCloud (if you have enabled iCloud Keychain).

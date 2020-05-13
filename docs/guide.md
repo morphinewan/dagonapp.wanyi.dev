@@ -4,3 +4,4 @@
 2. [How to export backup](guide02.md)
 3. [How to import Backup](guide03.md)
 4. [How to save Instagram pictures](guide04.md)
+5. [How to edit bookmark in list view](guide05.md)
