@@ -10,7 +10,7 @@
         Dagon是一个为iOS开发的书签管理App。从其他App中，您可以共享任何喜欢的链接、图片或者网页保存到Dagon中，然后对这些记录进行标签整理，在随后的时间里面随时阅读。Dagon也可以登录您的Pinboard服务的账号，书签会自动和Pinboard保持同步。
     </div>
     <div style="margin-top: 1.5rem;">
-        <a href="https://apps.apple.com/us/app/dagon-app/id1508281140"><img src="/images/appstore@2x.png" alt="Download on the App Store" width="237" height="70"></a>
+        <a href="https://apps.apple.com/cn/app/dagon-app/id1508281140"><img src="/images/appstore@2x.png" alt="Download on the App Store" width="237" height="70"></a>
     </div>
 </div>
 
