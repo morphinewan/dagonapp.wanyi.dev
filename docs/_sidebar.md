@@ -7,4 +7,5 @@
     * [How to import Backup](guide03.md)
     * [How to save Instagram pictures](guide04.md)
     * [How to edit bookmark in list view](guide05.md)
+    * [How to do batch tagging](guide06.md)
 * [Frequently Asked Questions](/Q&A)
