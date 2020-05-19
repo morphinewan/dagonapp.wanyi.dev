@@ -22,4 +22,27 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.4/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.4/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyB9M2xPe8Ral80egTfDafntlr_kwxsbWGY",
+    authDomain: "dagon-c5e87.firebaseapp.com",
+    databaseURL: "https://dagon-c5e87.firebaseio.com",
+    projectId: "dagon-c5e87",
+    storageBucket: "dagon-c5e87.appspot.com",
+    messagingSenderId: "973407990317",
+    appId: "1:973407990317:web:fd62ff28ee6782c240fea4",
+    measurementId: "G-RWZF88BEHB"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
 </html>
