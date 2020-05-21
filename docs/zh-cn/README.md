@@ -57,7 +57,7 @@
 # 联系方式
 
 1. 欢迎随时[发我们邮件](mailto:dagon@wanyi.dev?subject=About%20Dagon%20App)，随意提出您的问题或者意见建议，我们会第一时间进行答复。
-2. 如果您熟悉GitHub，您可以在[我们的项目主页]((https://github.com/morphinewan/dagonapp.wanyi.dev/issues)上创建issue来提出问题或者给建议，我们会随后回复讨论。
+2. 如果您熟悉GitHub，您可以在[我们的项目主页](https://github.com/morphinewan/dagonapp.wanyi.dev/issues)上创建issue来提出问题或者给建议，我们会随后回复讨论。
 3. 在[Twitter](https://twitter.com/morphinewan)上关注我，随时联络。
 
 # 隐私政策
