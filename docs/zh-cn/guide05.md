@@ -6,6 +6,6 @@
 
 [返回主页](/zh-cn/)
 
-[上一条](/zh-cn/guide04)
+[上一条](/zh-cn/guide03)
 
 [下一条](/zh-cn/guide05)
