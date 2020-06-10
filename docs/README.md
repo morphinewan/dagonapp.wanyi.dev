@@ -16,6 +16,7 @@
 
 # What's New
 
+1. Dagon v1.5 is out. You can open all the bookmarks with Safari by default. You can turn it on in settings. And We are sorry to mention that support for Instagram  will be removed in this release. As some pages will not be crawled correctly wihout logging in.
 1. Dagon v1.4 with batch tagging is out. [Check it out.](/guide06.md)
 1. Dagon v1.3 is out with edit function in list view. [Check it out.](/guide05.md)
 1. Dagon Lite is out. Free to use, pay to unlock some good features.
