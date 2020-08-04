@@ -5,3 +5,4 @@
 3. [How to import Backup](guide03.md)
 4. [How to edit bookmark in list view](guide05.md)
 5. [How to do batch tagging](guide06.md)
+6. [How to export bookmarks to other browsers](guide07.md)

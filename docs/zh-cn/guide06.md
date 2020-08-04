@@ -6,6 +6,8 @@
 #### 2. 如下图所示，你可以管理批量书签的标签了。
 ![Guide002](/../images/Guide602.jpg)
 
-[Back To Home](/zh-cn/)
+[返回主页](/zh-cn/)
 
-[Prev](/zh-cn//guide05)
+[上一条](/zh-cn/guide05)
+
+[下一条](/zh-cn/guide07)
