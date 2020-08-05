@@ -9,3 +9,5 @@
 [Back To Home](/)
 
 [Prev](/guide05)
+
+[Next](/guide07)

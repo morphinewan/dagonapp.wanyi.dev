@@ -7,4 +7,5 @@
     * [如何导入备份](/zh-cn/guide03.md)
     * [如何在列表画面编辑书签](/zh-cn/guide05.md)
     * [如何批量打标签](/zh-cn/guide06.md)
+    * [如何导出书签到其他浏览器](/zh-cn/guide07.md)
 * [常见问题](/zh-cn/Q&A)
